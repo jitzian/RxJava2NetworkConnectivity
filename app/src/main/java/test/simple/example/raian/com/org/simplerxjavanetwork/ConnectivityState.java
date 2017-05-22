@@ -5,8 +5,7 @@ package test.simple.example.raian.com.org.simplerxjavanetwork;
  */
 
 public class ConnectivityState {
-
-    public static enum State {
+    public enum State {
         CONNECTED,
         CONNECTING,
         DISCONNECTED,
@@ -17,5 +16,4 @@ public class ConnectivityState {
         private State() {
         }
     }
-
 }
