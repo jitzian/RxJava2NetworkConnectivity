@@ -1,6 +1,5 @@
 package test.simple.example.raian.com.org.simplerxjavanetwork;
 
-import android.net.ConnectivityManager;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.util.Log;
